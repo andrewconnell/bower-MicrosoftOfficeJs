@@ -18,7 +18,7 @@
     "Apps",
     "App",
     "Developer"
-  ]
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
