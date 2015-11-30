@@ -139,6 +139,7 @@
   </Set>
   <Set Name="Mailbox">
     <Version Value="1.1" />
+    <Version Value="1.2" />
   </Set>
   <Set Name="PartialTableBindings">
     <Version Value="1.1" />
